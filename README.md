@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Tianfang-Zhang/awesome-infrared-small-targets)
 
-## Table of Contents
+### Table of Contents
 
   - [Background Suppression-Based Methods](#background-suppression-based-methods)
   - [Human Visual System-Based Methods](#human-visual-system-based-methods)
@@ -14,7 +14,7 @@
   - [Datasets](#datasets)
 
 
-## Background Suppression-Based Methods
+## [Background Suppression-Based Methods](#table-of-contents)
 - **Tophat**, Morphology-based algorithm for point target detection in infrared backgrounds. 
   + Tom V T, Peli T, Leung M, et al. Signal and Data Processing of Small Targets, **1993**. International Society for Optics and Photonics, **1993**.
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/1954/0000/Morphology-based-algorithm-for-point-target-detection-in-infrared-backgrounds/10.1117/12.157758.short)
@@ -33,13 +33,13 @@
 
 - Infrared Small Target Detection by Density Peaks Searching and Maximum-Gray Region Growing. 
   + Huang S, Peng Z, Wang Z, et al. **TGRS Letters, 2019**.
-  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/8715427)
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/8715427) [![](https://img.shields.io/badge/Code-Matlab-orange)](https://github.com/Suqi-Huang/DensityPeaksIR)
 
 - Structure-Adaptive Clutter Suppression for Infrared Small Target Detection: Chain-Growth Filtering. 
   + Huang S, Liu Y, He Y, et al. **Remote Sensing, 2020**.
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.mdpi.com/2072-4292/12/1/47)
 
-## Human Visual System-Based Methods
+## [Human Visual System-Based Methods](#table-of-contents)
 
 - **LCM**, A Local Contrast Method for Small Infrared Target Detection. 
   + Chen C L P, Li H, Wei Y, et al. **TGRS, 2013**.
@@ -94,13 +94,13 @@
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/8737845)
 
 
-## Optimization-Based Methods
+## [Optimization-Based Methods](#table-of-contents)
 
-### Matrix: Single-Subspace
+### [Matrix: Single-Subspace](#table-of-contents)
 
 - **IPI**, Infrared patch-image model for small target detection in a single image.
   + Gao C, Meng D, Yang Y, et al. **TIP, 2013**.
-  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/6595533)
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/6595533) [![](https://img.shields.io/badge/Code-Matlab-orange)](https://github.com/gaocq/IPI-for-small-target-detection)
 
 - **NIPPS**, Non-negative infrared patch-image model: Robust target-background separation via partial sum minimization of singular values.
   + Dai Y, Wu Y, Song Y, et al. **Infrared Physics & Technology, 2017**.
@@ -108,7 +108,7 @@
 
 - **TV-PCP**, Infrared dim target detection based on total variation regularization and principal component pursuit.
   + Wang X, Peng Z, Kong D, et al. **Image and Vision Computing, 2017**.
-  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0262885617300756)
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0262885617300756) [![](https://img.shields.io/badge/Code-Matlab-orange)](https://wang-xiaoyang.github.io/publication/2017-07-01-paper-title-number-2)
 
 - **NRAM**, Infrared small target detection via non-convex rank approximation minimization joint l2, 1 norm.
   + Zhang L, Peng L, Zhang T, et al. **Remote Sensing, 2018**.
@@ -119,7 +119,7 @@
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.mdpi.com/2072-4292/11/5/559) [![](https://img.shields.io/badge/Code-Matlab-orange)](https://github.com/Tianfang-Zhang/NOLC)
 
 
-### Matrix: Multi-Subspace
+### [Matrix: Multi-Subspace](#table-of-contents)
 
 - **LRSR**, Small infrared target detection based on low-rank and sparse representation.
   + He Y J, Li M, Zhang J L, et al. **Infrared Physics & Technology, 2015**.
@@ -127,13 +127,13 @@
 
 - **SMSL**, Infrared dim and small target detection based on stable multisubspace learning in heterogeneous scene.
   + Wang X, Peng Z, Kong D, et al. **TGRS, 2017**.
-  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/7999276)
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/7999276) [![](https://img.shields.io/badge/Code-Matlab-orange)](https://wang-xiaoyang.github.io/publication/2017-08-01-paper-title-number-1)
 
 - **SRWS**, Infrared small target detection via self-regularized weighted sparse model.
   + Zhang T, Peng Z, Wu H, et al. **Neurocomputing, 2021**.
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0925231220313461) [![](https://img.shields.io/badge/Code-Matlab-orange)](https://github.com/Tianfang-Zhang/SRWS)
 
-### Tensor
+### [Tensor](#table-of-contents)
 
 - **RIPT**, Reweighted infrared patch-tensor model with both nonlocal and local priors for single-frame small target detection.
   + Dai Y, Wu Y. [J]. **IEEE journal of selected topics in applied earth observations and remote sensing, 2017**.
@@ -145,7 +145,7 @@
 
 
 
-## Deep Learning-Based Methods
+## [Deep Learning-Based Methods](#table-of-contents)
 
 - **MDvsFA cGan**, Miss detection vs. false alarm: Adversarial learning for small object segmentation in infrared images.
   + Wang H, Zhou L, Wang L. **ICCV, 2019**.
@@ -156,7 +156,7 @@
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://openaccess.thecvf.com/content/WACV2021/html/Dai_Asymmetric_Contextual_Modulation_for_Infrared_Small_Target_Detection_WACV_2021_paper.html) [![](https://img.shields.io/badge/Code-MXNet-orange)](https://github.com/YimianDai/open-acm) [![](https://img.shields.io/badge/Code-PyTorch-green)](https://github.com/Tianfang-Zhang/acm-pytorch)
 
 
-## Datasets
+## [Datasets](#table-of-contents)
 
 - **MDFA**, Miss detection vs. false alarm: Adversarial learning for small object segmentation in infrared images.
   + Wang H, Zhou L, Wang L. **ICCV, 2019**.
