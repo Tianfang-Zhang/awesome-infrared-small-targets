@@ -104,7 +104,7 @@
 
 - **NIPPS**, Non-negative infrared patch-image model: Robust target-background separation via partial sum minimization of singular values.
   + Dai Y, Wu Y, Song Y, et al. **Infrared Physics & Technology, 2017**.
-  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.sciencedirect.com/science/article/abs/pii/S1350449516303723)
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.sciencedirect.com/science/article/abs/pii/S1350449516303723) [![](https://img.shields.io/badge/Code-Matlab-orange)](https://github.com/YimianDai/DENTIST)
 
 - **TV-PCP**, Infrared dim target detection based on total variation regularization and principal component pursuit.
   + Wang X, Peng Z, Kong D, et al. **Image and Vision Computing, 2017**.
@@ -137,7 +137,7 @@
 
 - **RIPT**, Reweighted infrared patch-tensor model with both nonlocal and local priors for single-frame small target detection.
   + Dai Y, Wu Y. [J]. **IEEE journal of selected topics in applied earth observations and remote sensing, 2017**.
-  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/7932858)
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/7932858) [![](https://img.shields.io/badge/Code-Matlab-orange)](https://github.com/YimianDai/DENTIST)
 
 - **PSTNN**, Infrared small target detection based on partial sum of the tensor nuclear norm.
   + Zhang L, Peng Z. **Remote Sensing, 2019**.
