@@ -143,6 +143,17 @@
   + Zhang L, Peng Z. **Remote Sensing, 2019**.
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.mdpi.com/2072-4292/11/4/382) [![](https://img.shields.io/badge/Code-Matlab-orange)](https://github.com/Lanneeee/Infrared-Small-Target-Detection-based-on-PSTNN)
 
+- Infrared Small Target Detection via Low-Rank Tensor Completion With Top-Hat Regularization.
+  + H. Zhu, S. Liu, L. Deng, Y. Li and F. Xiao. **TGRS, 2020**.
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/8867952)
+
+- Infrared dim target detection via mode-k1k2 extension tensor tubal rank under complex ocean environment.
+  + Z. Cao, X. Kong, Q. Zhu, S. Cao and Z. Peng. **SPRS Journal of Photogrammetry and Remote Sensing， 2021**.
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.sciencedirect.com/science/article/pii/S0924271621002392)
+
+- Infrared Small Target Detection via Nonconvex Tensor Fibered Rank Approximation.
+  + X. Kong, C. Yang, S. Cao, C. Li, Z. Peng. **TGRS， 2021**.
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/9394596)
 
 
 ## [Deep Learning-Based Methods](#table-of-contents)
@@ -155,6 +166,30 @@
   + Dai Y, Wu Y, Zhou F, et al. **WACV, 2021**.
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://openaccess.thecvf.com/content/WACV2021/html/Dai_Asymmetric_Contextual_Modulation_for_Infrared_Small_Target_Detection_WACV_2021_paper.html) [![](https://img.shields.io/badge/Code-MXNet-orange)](https://github.com/YimianDai/open-acm) [![](https://img.shields.io/badge/Code-PyTorch-green)](https://github.com/Tianfang-Zhang/acm-pytorch)
 
+- TBC-Net: A real-time detector for infrared small target detection using semantic constraint.
+  + M. Zhao, L. Cheng, X. Yang, P. Feng, L. Liu and N. Wu. **arXiv, 2019**
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://arxiv.org/abs/2001.05852)
+
+- **ALCNet** Attentional Local Contrast Networks for Infrared Small Target Detection.
+  + Y. Dai, Y. Wu, F. Zhou, K. J. I. T. o. G. Barnard and R. Sensing. **TGRS, 2021**
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/9314219) [![](https://img.shields.io/badge/Code-MXNet-orange)](https://github.com/YimianDai/open-alcnet)
+
+- **DNANet** Dense Nested Attention Network for Infrared Small Target Detection.
+  + B. Li, C. Xiao, L. Wang, Y. Wang, Z. Lin, M. Li, et al. **arXiv, 2021**
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://arxiv.org/abs/2106.00487) [![](https://img.shields.io/badge/Code-PyTorch-green)](https://github.com/YeRen123455/Infrared-Small-Target-Detection)
+
+- Infrared Small-Dim Target Detection with Transformer under Complex Backgrounds
+  + F. Liu, C. Gao, F. Chen, D. Meng, W. Zuo and X. Gao. **arXiv, 2021**
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://arxiv.org/abs/2109.14379)
+
+- EAAU-Net: Enhanced asymmetric attention U-Net for infrared small target detection.
+  + X. Tong, B. Sun, J. Wei, Z. Zuo and S. Su. **Remote Sensing, 2021**
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.mdpi.com/2072-4292/13/16/3200)
+
+- AGPCNet: Attention-Guided Pyramid Context Networks for Infrared Small Target Detection.
+  + Tianfang Zhang, Siying Cao, Tian Pu, Zhenming Peng. **arXiv, 2021**
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://arxiv.org/abs/2111.03580) [![](https://img.shields.io/badge/Code-PyTorch-green)](https://github.com/Tianfang-Zhang/AGPCNet)
+
 
 ## [Datasets](#table-of-contents)
 
@@ -166,6 +201,9 @@
   + Dai Y, Wu Y, Zhou F, et al. **WACV, 2021**.
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://openaccess.thecvf.com/content/WACV2021/html/Dai_Asymmetric_Contextual_Modulation_for_Infrared_Small_Target_Detection_WACV_2021_paper.html) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/YimianDai/sirst) 
 
+- **SIRST-Aug**, AGPCNet: Attention-Guided Pyramid Context Networks for Infrared Small Target Detection.
+  + Tianfang Zhang, Siying Cao, Tian Pu, Zhenming Peng. **arXiv, 2021**
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://arxiv.org/abs/2111.03580) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/Tianfang-Zhang/AGPCNet)
 
 -----
 Note: 
