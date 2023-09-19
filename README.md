@@ -45,7 +45,7 @@
   + Huang S, Liu Y, He Y, et al. **Remote Sensing, 2020**.
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.mdpi.com/2072-4292/12/1/47)
 
-- nfrared small-target detection based on multiple morphological profiles. 
+- Infrared small-target detection based on multiple morphological profiles. 
   + M. Zhao, L. Li, W. Li, et al. **TGRS, 2020**.
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/9200791)
 
@@ -96,8 +96,8 @@
   + Liu D, Cao L, Li Z, et al. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2018**.
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/8360016)
 
-- **HB-MLCM**, High-boost-based multiscale local contrast measure for infrared small target detection. **TGRS Letters, 2017**.
-  + Shi Y, Wei Y, Yao H, et al.
+- **HB-MLCM**, High-boost-based multiscale local contrast measure for infrared small target detection.
+  + Shi Y, Wei Y, Yao H, et al. **TGRS Letters, 2017**.
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/8125583)
 
 - Infrared Small Target Detection Based on Derivative Dissimilarity Measure. 
