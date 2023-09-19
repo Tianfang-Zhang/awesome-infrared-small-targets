@@ -175,7 +175,7 @@
   + Z. Cao, X. Kong, Q. Zhu, S. Cao and Z. Peng. **SPRS Journal of Photogrammetry and Remote Sensing, 2021**.
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.sciencedirect.com/science/article/pii/S0924271621002392)
 
-- Infrared Small Target Detection via Nonconvex Tensor Fibered Rank Approximation.
+- **LogTFNN**, Infrared Small Target Detection via Nonconvex Tensor Fibered Rank Approximation.
   + X. Kong, C. Yang, S. Cao, C. Li, Z. Peng. **TGRS, 2021**.
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/9394596)
 
@@ -187,9 +187,17 @@
   + F. Zhou, M. Fu, Y. Duan et al. **TAES, 2022**.
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/9903329/)
 
+- **NPSTT**, Infrared Small Target Detection Using Nonoverlapping Patch Spatial–Temporal Tensor Factorization With Capped Nuclear Norm Regularization.
+  + G. Wang, B. Tao, X. Kong and Z. Peng. **TGRS, 2022**.
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/9606877)
+
 - **SRSTT**, Sparse Regularization-Based Spatial-Temporal Twist Tensor Model for Infrared Small Target Detection.
   + J. Li, P. Zhang, L. Zhang and Z. Zhang. **TGRS, 2023**.
   + [![](https://img.shields.io/badge/Link-Paper-blue)](http://ieeexplore.ieee.org/document/10007842)
+
+- **4-D-TT/TR**, Infrared Small Target Detection Using Spatiotemporal 4-D Tensor Train and Ring Unfolding.
+  + F. Wu, H. Yu, A. Liu, J. Luo and Z. Peng. **TGRS, 2023**.
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10156866)
 
 
 
