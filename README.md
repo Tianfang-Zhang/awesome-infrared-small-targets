@@ -207,6 +207,17 @@
   + Zhang L, Peng Z. **Remote Sensing, 2019**.
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.mdpi.com/2072-4292/11/4/382) [![](https://img.shields.io/badge/Code-Matlab-orange)](https://github.com/Lanneeee/Infrared-Small-Target-Detection-based-on-PSTNN)
 
+- **TCTHR**, Infrared Small Target Detection via Low-Rank Tensor Completion With Top-Hat Regularization.
+  + H. Zhu, S. Liu, L. Deng, Y. Li and F. Xiao. **TGRS, 2020**.  
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/8867952)
+
+- **METTR**, Infrared dim target detection via mode-k1k2 extension tensor tubal rank under complex ocean environment.
+  + Z. Cao, X. Kong, Q. Zhu, S. Cao and Z. Peng. **ISPRS Journal of Photogrammetry and Remote Sensing, 2021**.    
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.sciencedirect.com/science/article/pii/S0924271621002392)
+
+- **LogTFNN**, Infrared Small Target Detection via Nonconvex Tensor Fibered Rank Approximation.
+  + X. Kong, C. Yang, S. Cao, C. Li, Z. Peng. **TGRS, 2021**.
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/9394596)
 
 
 ## [Deep Learning-Based Methods](#table-of-contents)
