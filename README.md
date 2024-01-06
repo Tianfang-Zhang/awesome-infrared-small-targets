@@ -203,6 +203,9 @@
   + Dai Y, Wu Y. **IEEE journal of selected topics in applied earth observations and remote sensing, 2017**.  
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/7932858) [![](https://img.shields.io/badge/Code-Matlab-orange)](https://github.com/YimianDai/DENTIST)
 
+- **PSTNN**, Infrared small target detection based on partial sum of the tensor nuclear norm.
+  + Zhang L, Peng Z. **Remote Sensing, 2019**.
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.mdpi.com/2072-4292/11/4/382) [![](https://img.shields.io/badge/Code-Matlab-orange)](https://github.com/Lanneeee/Infrared-Small-Target-Detection-based-on-PSTNN)
 
 
 
