@@ -174,7 +174,7 @@
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/8867952)
 
 - **METTR**, Infrared dim target detection via mode-k1k2 extension tensor tubal rank under complex ocean environment.
-  + Z. Cao, X. Kong, Q. Zhu, S. Cao and Z. Peng. **SPRS Journal of Photogrammetry and Remote Sensing, 2021**.
+  + Z. Cao, X. Kong, Q. Zhu, S. Cao and Z. Peng. **ISPRS Journal of Photogrammetry and Remote Sensing, 2021**.
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.sciencedirect.com/science/article/pii/S0924271621002392)
 
 - **LogTFNN**, Infrared Small Target Detection via Nonconvex Tensor Fibered Rank Approximation.
