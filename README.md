@@ -219,7 +219,7 @@
   + X. Kong, C. Yang, S. Cao, C. Li, Z. Peng. **TGRS, 2021**.
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/9394596)
 
-- **CMPG**, Infrared Small Target Detection via $L_{0}$ Sparse Gradient Regularized Tensor Spectral Support Low-Rank Decomposition.
+- **CMPG**, Infrared Small Target Detection via L0 Sparse Gradient Regularized Tensor Spectral Support Low-Rank Decomposition.
   + F. Zhou, M. Fu, Y. Duan et al. **TAES, 2022**.  
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/9903329)
 
