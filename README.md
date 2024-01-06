@@ -11,8 +11,8 @@
   - [Optimization-Based Methods](#optimization-based-methods)
     - [Matrix: Single-Subspace](#matrix-single-subspace)
     - [Matrix: Multi-Subspace](#matrix-multi-subspace)
-    - [Tensor: Multi-Frame](#tensor-multi-frame)
     - [Tensor: Single-Frame](#tensor-single-frame)
+    - [Tensor: Multi-Frame](#tensor-multi-frame)
   - [Deep Learning-Based Methods](#deep-learning-based-methods)
   - [Deep Unfolding-Based Methods](#deep-unfolding-based-methods)
   - [Datasets](#datasets)
@@ -159,6 +159,32 @@
   + Zhang T, Peng Z, Wu H, et al. **Neurocomputing, 2021**.
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0925231220313461) [![](https://img.shields.io/badge/Code-Matlab-orange)](https://github.com/Tianfang-Zhang/SRWS)
 
+### [Tensor: Single-Frame](#table-of-contents)
+
+
+- **RIPT**, Reweighted infrared patch-tensor model with both nonlocal and local priors for single-frame small target detection.
+  + Dai Y, Wu Y. **IEEE journal of selected topics in applied earth observations and remote sensing, 2017**.  
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/7932858) [![](https://img.shields.io/badge/Code-Matlab-orange)](https://github.com/YimianDai/DENTIST)
+
+- **PSTNN**, Infrared small target detection based on partial sum of the tensor nuclear norm.
+  + Zhang L, Peng Z. **Remote Sensing, 2019**.
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.mdpi.com/2072-4292/11/4/382) [![](https://img.shields.io/badge/Code-Matlab-orange)](https://github.com/Lanneeee/Infrared-Small-Target-Detection-based-on-PSTNN)
+
+- **TCTHR**, Infrared Small Target Detection via Low-Rank Tensor Completion With Top-Hat Regularization.
+  + H. Zhu, S. Liu, L. Deng, Y. Li and F. Xiao. **TGRS, 2020**.  
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/8867952)
+
+- **METTR**, Infrared dim target detection via mode-k1k2 extension tensor tubal rank under complex ocean environment.
+  + Z. Cao, X. Kong, Q. Zhu, S. Cao and Z. Peng. **ISPRS Journal of Photogrammetry and Remote Sensing, 2021**.    
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.sciencedirect.com/science/article/pii/S0924271621002392)
+
+- **LogTFNN**, Infrared Small Target Detection via Nonconvex Tensor Fibered Rank Approximation.
+  + X. Kong, C. Yang, S. Cao, C. Li, Z. Peng. **TGRS, 2021**.
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/9394596)
+
+- **CMPG**, Infrared Small Target Detection via L0 Sparse Gradient Regularized Tensor Spectral Support Low-Rank Decomposition.
+  + F. Zhou, M. Fu, Y. Duan et al. **TAES, 2022**.  
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/9903329)
 
 ### [Tensor: Multi-Frame](#table-of-contents)
 
@@ -195,33 +221,6 @@
   + T. Liu, Q. Yin, J. Yang, Y. Wang and W. An. **PR, 2023**.
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.sciencedirect.com/science/article/pii/S003132032200663X) [![](https://img.shields.io/badge/Code-Matlab-orange)](https://github.com/LiuTing20a/WSWTNN-PnP)
 
- 
-### [Tensor: Single-Frame](#table-of-contents)
-
-
-- **RIPT**, Reweighted infrared patch-tensor model with both nonlocal and local priors for single-frame small target detection.
-  + Dai Y, Wu Y. **IEEE journal of selected topics in applied earth observations and remote sensing, 2017**.  
-  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/7932858) [![](https://img.shields.io/badge/Code-Matlab-orange)](https://github.com/YimianDai/DENTIST)
-
-- **PSTNN**, Infrared small target detection based on partial sum of the tensor nuclear norm.
-  + Zhang L, Peng Z. **Remote Sensing, 2019**.
-  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.mdpi.com/2072-4292/11/4/382) [![](https://img.shields.io/badge/Code-Matlab-orange)](https://github.com/Lanneeee/Infrared-Small-Target-Detection-based-on-PSTNN)
-
-- **TCTHR**, Infrared Small Target Detection via Low-Rank Tensor Completion With Top-Hat Regularization.
-  + H. Zhu, S. Liu, L. Deng, Y. Li and F. Xiao. **TGRS, 2020**.  
-  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/8867952)
-
-- **METTR**, Infrared dim target detection via mode-k1k2 extension tensor tubal rank under complex ocean environment.
-  + Z. Cao, X. Kong, Q. Zhu, S. Cao and Z. Peng. **ISPRS Journal of Photogrammetry and Remote Sensing, 2021**.    
-  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.sciencedirect.com/science/article/pii/S0924271621002392)
-
-- **LogTFNN**, Infrared Small Target Detection via Nonconvex Tensor Fibered Rank Approximation.
-  + X. Kong, C. Yang, S. Cao, C. Li, Z. Peng. **TGRS, 2021**.
-  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/9394596)
-
-- **CMPG**, Infrared Small Target Detection via L0 Sparse Gradient Regularized Tensor Spectral Support Low-Rank Decomposition.
-  + F. Zhou, M. Fu, Y. Duan et al. **TAES, 2022**.  
-  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/9903329)
 
 ## [Deep Learning-Based Methods](#table-of-contents)
 
