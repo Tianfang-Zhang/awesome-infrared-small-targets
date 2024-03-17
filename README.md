@@ -14,6 +14,8 @@
     - [Tensor: Single-Frame](#tensor-single-frame)
     - [Tensor: Multi-Frame](#tensor-multi-frame)
   - [Deep Learning-Based Methods](#deep-learning-based-methods)
+    - [Single-Frame](#single-frame)
+    - [Multi-Frame](#multi-frame)
   - [Deep Unfolding-Based Methods](#deep-unfolding-based-methods)
   - [Datasets](#datasets)
 
@@ -223,7 +225,7 @@
 
 
 ## [Deep Learning-Based Methods](#table-of-contents)
-
+### [Single-Frame](#table-of-contents)
 - **MDvsFA cGan**, Miss detection vs. false alarm: Adversarial learning for small object segmentation in infrared images.
   + Wang H, Zhou L, Wang L. **ICCV, 2019**.
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Miss_Detection_vs._False_Alarm_Adversarial_Learning_for_Small_Object_ICCV_2019_paper.html) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/wanghuanphd/MDvsFA_cGAN)
@@ -292,7 +294,30 @@
   + H. Sun, J. Bai, F. Yang and X. Bai. **TGRS, 2023**
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10011452) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/sun11999/RDIAN)
 
+- Monte Carlo Linear Clustering with Single-Point Supervision is Enough for Infrared Small Target Detection
+  + B. Li et al.  **ICCV, 2023**
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Monte_Carlo_Linear_Clustering_with_Single-Point_Supervision_is_Enough_for_ICCV_2023_paper.html)
 
+### [Multi-Frame](#table-of-contents)
+- A Spatial-Temporal Feature-Based Detection Framework for Infrared Dim Small Targett.
+  + J. Du et al. **TGRS, 2022**
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10011452)
+
+- **STDMANet**: Spatio-Temporal Differential Multiscale Attention Network for Small Moving Infrared Target Detection.
+  + P. Yan, R. Hou, X. Duan, C. Yue, X. Wang, and X. Cao. **TGRS, 2023**
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10034772)
+    
+- **SSTNet**: Sliced Spatio-Temporal Network With Cross-Slice ConvLSTM for Moving Infrared Dim-Small Target Detection.
+  + S. Chen, L. Ji, J. Zhu, M. Ye, and X. Yao.  **TGRS, 2024**
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10381806)
+
+- **ST-Trans**: Spatial-Temporal Transformer for Infrared Small Target Detection in Sequential Images
+  + X. Tong et al. **TGRS, 2024**
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10409231)
+
+- Direction-Coded Temporal U-Shape Module for Multiframe Infrared Small Target Detection
+  + R. Li et al. **TNNLS, 2023**
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10321723)
 
 ## [Deep Unfolding-Based Methods](#table-of-contents)
 
@@ -322,6 +347,8 @@
 - **IRSTD-1k**: Shape matters for infrared small target detection.
   + M. Zhang, R. Zhang, Y. Yang et al. **CVPR, 2022**
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_ISNet_Shape_Matters_for_Infrared_Small_Target_Detection_CVPR_2022_paper.pdf) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/RuiZhang97/ISNet)
+
+
 
 -----
 Note: 
