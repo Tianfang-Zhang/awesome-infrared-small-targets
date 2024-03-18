@@ -223,6 +223,10 @@
   + T. Liu, Q. Yin, J. Yang, Y. Wang and W. An. **PR, 2023**.
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.sciencedirect.com/science/article/pii/S003132032200663X) [![](https://img.shields.io/badge/Code-Matlab-orange)](https://github.com/LiuTing20a/WSWTNN-PnP)
 
+- **3DSTPM**, Infrared Small Target Detection Combining Deep Spatial–Temporal Prior With Traditional Priors.
+  + Z. Zhang, P. Gao, S. Ji, X. Wang, and P. Zhang. **TGRS, 2023**.
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10275009)
+
 
 ## [Deep Learning-Based Methods](#table-of-contents)
 ### [Single-Frame](#table-of-contents)
@@ -299,7 +303,7 @@
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Monte_Carlo_Linear_Clustering_with_Single-Point_Supervision_is_Enough_for_ICCV_2023_paper.html)
 
 ### [Multi-Frame](#table-of-contents)
-- A Spatial-Temporal Feature-Based Detection Framework for Infrared Dim Small Targett.
+- A Spatial-Temporal Feature-Based Detection Framework for Infrared Dim Small Target.
   + J. Du et al. **TGRS, 2022**
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10011452)
 
@@ -311,18 +315,18 @@
   + S. Chen, L. Ji, J. Zhu, M. Ye, and X. Yao.  **TGRS, 2024**
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10381806)
 
-- **ST-Trans**: Spatial-Temporal Transformer for Infrared Small Target Detection in Sequential Images
+- **ST-Trans**: Spatial-Temporal Transformer for Infrared Small Target Detection in Sequential Images.
   + X. Tong et al. **TGRS, 2024**
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10409231)
 
-- Direction-Coded Temporal U-Shape Module for Multiframe Infrared Small Target Detection
+- Direction-Coded Temporal U-Shape Module for Multiframe Infrared Small Target Detection.
   + R. Li et al. **TNNLS, 2023**
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10321723)
 
 ## [Deep Unfolding-Based Methods](#table-of-contents)
 
-- **RPCANet**: Deep Unfolding RPCA Based Infrared Small Target Detection
-  + F. Wu, T. Zhang, L. Li, Y. Huang and Z. Peng. **WACV, 2024**
+- **RPCANet**: Deep Unfolding RPCA Based Infrared Small Target Detection.
+  + F. Wu, T. Zhang, L. Li, Y. Huang, and Z. Peng. **WACV, 2024**
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://openaccess.thecvf.com/content/WACV2024/html/Wu_RPCANet_Deep_Unfolding_RPCA_Based_Infrared_Small_Target_Detection_WACV_2024_paper.html) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/fengyiwu98/RPCANet)
 
 
