@@ -11,6 +11,7 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
 ## [Table of Contents](#table-of-contents)
 - [Awesome Infrared Small Targets](#awesome-infrared-small-targets)
   - [Table of Contents](#table-of-contents)
+  - [Recommended Benchmarks](#recommended-benchmarks)
   - [Background Suppression-Based Methods](#background-suppression-based-methods)
   - [Human Visual System-Based Methods](#human-visual-system-based-methods)
   - [Optimization-Based Methods](#optimization-based-methods)
@@ -25,7 +26,6 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
   - [Datasets](#datasets)
     - [Datasets: Single-Frame](#datasets-single-frame)
     - [Datasets: Multi-Frame](#datasets-multi-frame)
-  - [Recommended Benchmarks](#recommended-benchmarks)
 - [Acknowledgement](#acknowledgement)
 
 
@@ -35,6 +35,16 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
 |:------|:------:|:------:|:------:|:------:| -->
 
 
+
+
+
+
+## [Recommended Benchmarks](#table-of-contents)
+| Title  |  Date  | Link |
+|:------|:------:|:------:|
+|ISTD Python|2021|https://github.com/Tianfang-Zhang/ISTD-python|
+|BasicIRSTD|2023|https://github.com/XinyiYing/BasicIRSTD|
+|ISTD-Benchmark|2023|https://github.com/Linaom1214/ISTD-Benchmark|
 
 
 
@@ -254,19 +264,19 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://openaccess.thecvf.com/content/WACV2021/html/Dai_Asymmetric_Contextual_Modulation_for_Infrared_Small_Target_Detection_WACV_2021_paper.html) [![](https://img.shields.io/badge/Code-MXNet-orange)](https://github.com/YimianDai/open-acm) [![](https://img.shields.io/badge/Code-PyTorch-green)](https://github.com/Tianfang-Zhang/acm-pytorch)
 
 - **TBC-Net**: A real-time detector for infrared small target detection using semantic constraint.
-  - M. Zhao, L. Cheng, X. Yang, P. Feng, L. Liu and N. Wu. **arXiv, 2019**.
+  - M. Zhao, L. Cheng, X. Yang, P. Feng, L. Liu and N. Wu. **arXiv, 2019**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://arxiv.org/abs/2001.05852)
 
 - **ALCNet**, Attentional Local Contrast Networks for Infrared Small Target Detection.
-  - Y. Dai, Y. Wu, F. Zhou, K. J. I. T. o. G. Barnard and R. Sensing. **TGRS, 2021**.
+  - Y. Dai, Y. Wu, F. Zhou, K. J. I. T. o. G. Barnard and R. Sensing. **TGRS, 2021**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/9314219) [![](https://img.shields.io/badge/Code-MXNet-orange)](https://github.com/YimianDai/open-alcnet)
 
 - **DNANet**, Dense Nested Attention Network for Infrared Small Target Detection.
   - B. Li, C. Xiao, L. Wang, Y. Wang, Z. Lin, M. Li, et al. **TIP, 2022**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/iel7/83/4358840/09864119.pdf) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/YeRen123455/Infrared-Small-Target-Detection)
 
-- Infrared Small-Dim Target Detection with Transformer under Complex Backgrounds.
-  - F. Liu, C. Gao, F. Chen, D. Meng, W. Zuo and X. Gao. **TIP, 2023**.
+- Infrared Small-Dim Target Detection with Transformer under Complex Backgrounds
+  - F. Liu, C. Gao, F. Chen, D. Meng, W. Zuo and X. Gao. **TIP, 2023**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10298041)
 
 - **EAAU-Net**: Enhanced asymmetric attention U-Net for infrared small target detection.
@@ -274,19 +284,19 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.mdpi.com/2072-4292/13/16/3200)
 
 - **AGPCNet**, Attention-Guided Pyramid Context Networks for Infrared Small Target Detection.
-  - Tianfang Zhang, Lei Li, Siying Cao, Tian Pu, Zhenming Peng. **TAES, 2023**.
+  - Tianfang Zhang, Lei Li, Siying Cao, Tian Pu, Zhenming Peng. **TAES, 2023**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://arxiv.org/abs/2111.03580) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/Tianfang-Zhang/AGPCNet)
 
 - **IRSTFormer**: A Hierarchical Vision Transformer for Infrared Small Target Detection.
-  - G. Chen, W. Wang and S. Tan. **Remote Sensing, 2022**.
+  - G. Chen, W. Wang and S. Tan. **Remote Sensing, 2022**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.mdpi.com/2072-4292/14/14/3258/pdf)
 
 - **APANet**, Novel Asymmetric Pyramid Aggregation Network for Infrared Dim and Small Target Detection.
-  - G. Lv, L. Dong, J. Liang and W. Xu. **Remote Sensing, 2022**.
+  - G. Lv, L. Dong, J. Liang and W. Xu. **Remote Sensing, 2022**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.mdpi.com/2072-4292/14/22/5643/pdf)
 
-- **FC3-Net** Exploring Feature Compensation and Cross-level Correlation for Infrared Small Target Detection.
-  - M. Zhang, et al. **ACM MM, 2022**.
+- **FC3-Net** Exploring Feature Compensation and Cross-level Correlation for Infrared Small Target Detection,
+  - M. Zhang, et al. **ACM MM, 2022**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://dl.acm.org/doi/10.1145/3503161.3548264) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/IPIC-Lab/SIRST-Detection-FC3-Net)
 
 - Prior-Guided Data Augmentation for Infrared Small Target Detection.
@@ -298,44 +308,44 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/9745054/) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/kwwcv/iaanet)
 
 - **ISNet**: Shape matters for infrared small target detection.
-  - M. Zhang, R. Zhang, Y. Yang et al. **CVPR, 2022**.
+  - M. Zhang, R. Zhang, Y. Yang et al. **CVPR, 2022**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_ISNet_Shape_Matters_for_Infrared_Small_Target_Detection_CVPR_2022_paper.pdf)
 
 - **UIUNet**: U-Net in U-Net for Infrared Small Object Detection.
-  - X. Wu, D. Hong, J. Chanussot. **TIP, 2023**.
+  - X. Wu, D. Hong, J. Chanussot. **TIP, 2023**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/9989433) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/danfenghong/IEEE_TIP_UIU-Net)
 
 
 
 - **MTUNet**: Multilevel TransUNet for Space-Based Infrared Tiny Ship Detection.
-  - T. Wu et al. **TGRS, 2023**.
+  - T. Wu et al. **TGRS, 2023**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10011449) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/TianhaoWu16/Multi-level-TransUNet-for-Space-based-Infrared-Tiny-ship-Detection)
 
 - **LESPS**: Mapping Degeneration Meets Label Evolution: Learning Infrared Small Target Detection with Single Point Supervision.
-  - X. Ying et al. **CVPR, 2023**.
+  - X. Ying et al. **CVPR, 2023**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://arxiv.org/pdf/2304.01484.pdf) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/XinyiYing/LESPS)
 
 - **RDIAN**, Receptive-Field and Direction Induced Attention Network for Infrared Dim Small Target Detection With a Large-Scale Dataset IRDST.
-  - H. Sun, J. Bai, F. Yang and X. Bai. **TGRS, 2023**.
+  - H. Sun, J. Bai, F. Yang and X. Bai. **TGRS, 2023**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10011452) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/sun11999/RDIAN)
 
 - Monte Carlo Linear Clustering with Single-Point Supervision is Enough for Infrared Small Target Detection
-  - B. Li et al.  **ICCV, 2023**.
+  - B. Li et al.  **ICCV, 2023**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Monte_Carlo_Linear_Clustering_with_Single-Point_Supervision_is_Enough_for_ICCV_2023_paper.html) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/YeRen123455/SIRST-Single-Point-Supervision)
 
 
-- **MSHNet**: Infrared Small Target Detection with Scale and Location Sensitivity.
-  - Q. Liu, et al. **CVPR, 2024**.
+- **MSHNet**: Infrared Small Target Detection with Scale and Location Sensitivity,
+  - Q. Liu, et al. **CVPR, 2024**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://arxiv.org/abs/2403.19366) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/Lliu666/MSHNet)
 
 
-- **SCTransNet**: Spatial-channel Cross Transformer Network for Infrared Small Target Detection.
-  - S. Yuan, et al. **TGRS, 2024**.
+- **SCTransNet**: Spatial-channel Cross Transformer Network for Infrared Small Target Detection,
+  - S. Yuan, et al. **TGRS, 2024**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10486932) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/xdFai/SCTransNet)
 
 
-- **IRSAM**: Advancing segment anything model for infrared small target detection.
-  - M. Zhang, et al. **ECCV, 2024**.
+- **IRSAM**: Advancing segment anything model for infrared small target detection,
+  - M. Zhang, et al. **ECCV, 2024**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://arxiv.org/pdf/2407.07520) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/IPIC-Lab/IRSAM)
 
 
@@ -343,7 +353,7 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
 ### [Multi-Frame](#table-of-contents)
 
 - A Spatial-Temporal Feature-Based Detection Framework for Infrared Dim Small Target.
-  - J. Du et al. **TGRS, 2022**.
+  - J. Du et al. **TGRS, 2022**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10011452)
 
 - **STDMANet**: Spatio-Temporal Differential Multiscale Attention Network for Small Moving Infrared Target Detection.
@@ -352,27 +362,27 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
 
 
 - **DTUM**: Direction-Coded Temporal U-Shape Module for Multiframe Infrared Small Target Detection.
-  - R. Li et al. **TNNLS, 2023**.
+  - R. Li et al. **TNNLS, 2023**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10321723) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/TinaLRJ/Multi-frame-infrared-small-target-detection-DTUM)
 
 
 - **SSTNet**: Sliced Spatio-Temporal Network With Cross-Slice ConvLSTM for Moving Infrared Dim-Small Target Detection.
-  - S. Chen, L. Ji, J. Zhu, M. Ye, and X. Yao.  **TGRS, 2024**.
+  - S. Chen, L. Ji, J. Zhu, M. Ye, and X. Yao.  **TGRS, 2024**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10381806) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/UESTC-nnLab/SSTNet)
 
 
 - **DMIST**: Toward Dense Moving Infrared Small Target Detection: New Datasets and Baseline.
-  - S. Chen, et al.  **TGRS, 2024**.
+  - S. Chen, et al.  **TGRS, 2024**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10636251) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/UESTC-nnLab/DMIST)
 
 
 - **Tridos**: Triple-domain Feature Learning with Frequency-aware Memory Enhancement for Moving Infrared Small Target Detection.
-  - W. Duan, et al.  **TGRS, 2024**.
+  - W. Duan, et al.  **TGRS, 2024**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10636251) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/UESTC-nnLab/Tridos)
 
 
 
-- **LMAFormer**: Local Motion Aware Transformer for Small Moving Infrared Target Detection.
+- **LMAFormer**: Local Motion Aware Transformer for Small Moving Infrared Target Detection
   - Y. Huang, X. Zhi, J. Hu, et al. **TGRS, 2024**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10758760) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/lifier/LMAFormer)
 
@@ -380,73 +390,71 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
 ## [Deep Unfolding-Based Methods](#table-of-contents)
 
 - **RPCANet**: Deep Unfolding RPCA Based Infrared Small Target Detection.
-  - F. Wu, T. Zhang, L. Li, Y. Huang, and Z. Peng. **WACV, 2024**.
+  - F. Wu, T. Zhang, L. Li, Y. Huang, and Z. Peng. **WACV, 2024**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://openaccess.thecvf.com/content/WACV2024/html/Wu_RPCANet_Deep_Unfolding_RPCA_Based_Infrared_Small_Target_Detection_WACV_2024_paper.html) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/fengyiwu98/RPCANet)
 
 ## [Datasets](#table-of-contents)
 
 ### [Datasets: Single-Frame](#table-of-contents)
 
-- **MDFA**, Miss detection vs. false alarm: Adversarial learning for small object segmentation in infrared images.
+- **MDFA**: Miss detection vs. false alarm: Adversarial learning for small object segmentation in infrared images.
   - Wang H, Zhou L, Wang L. **ICCV, 2019**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Miss_Detection_vs._False_Alarm_Adversarial_Learning_for_Small_Object_ICCV_2019_paper.html) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/wanghuanphd/MDvsFA_cGAN)
 
-- **SIRST**, Asymmetric contextual modulation for infrared small target detection.
+- **SIRST**: Asymmetric contextual modulation for infrared small target detection.
   - Dai Y, Wu Y, Zhou F, et al. **WACV, 2021**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://openaccess.thecvf.com/content/WACV2021/html/Dai_Asymmetric_Contextual_Modulation_for_Infrared_Small_Target_Detection_WACV_2021_paper.html) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/YimianDai/sirst)
 
 
-- **SIRST-Aug**, Attention-Guided Pyramid Context Networks for Infrared Small Target Detection.
-  - Tianfang Zhang, Lei Li, Siying Cao, Tian Pu, Zhenming Peng. **TAES, 2023**.
+- **SIRST-Aug**: Attention-Guided Pyramid Context Networks for Infrared Small Target Detection.
+  - Tianfang Zhang, Lei Li, Siying Cao, Tian Pu, Zhenming Peng. **TAES, 2023**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://arxiv.org/abs/2111.03580) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/Tianfang-Zhang/AGPCNet)
 
-- **NUDT-SIRST**, Dense Nested Attention Network for Infrared Small Target Detection.
-  - B. Li, C. Xiao, L. Wang, Y. Wang, Z. Lin, M. Li, et al. **TIP, 2022**.
+- **NUDT-SIRST**: Dense Nested Attention Network for Infrared Small Target Detection.
+  - B. Li, C. Xiao, L. Wang, Y. Wang, Z. Lin, M. Li, et al. **TIP, 2022**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/iel7/83/4358840/09864119.pdf) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/YeRen123455/Infrared-Small-Target-Detection)
 
 - **IRSTD-1k**: Shape matters for infrared small target detection.
   - M. Zhang, R. Zhang, Y. Yang et al. **CVPR, 2022**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_ISNet_Shape_Matters_for_Infrared_Small_Target_Detection_CVPR_2022_paper.pdf) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/RuiZhang97/ISNet)
 
-- **SIRST v2**: One-Stage Cascade Refinement Networks for Infrared Small Target Detection.
+- **SIRST v2**: One-Stage Cascade Refinement Networks for Infrared Small Target Detection,
   - Y. Dai, X. Li, F. Zhou, et al. **TGRS, 2023**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10038696/) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/YimianDai/open-sirst-v2)
 
-- **NUDT-SIRST-Sea**: MTU-Net: Multilevel TransUNet for Space-Based Infrared Tiny Ship Detection.
+- **NUDT-SIRST-Sea**: MTU-Net: Multilevel TransUNet for Space-Based Infrared Tiny Ship Detection, 
   - T. Wu, B. Li, Y. Luo, et al. **TGRS, 2023**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10011449) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/TianhaoWu16/Multi-level-TransUNet-for-Space-based-Infrared-Tiny-ship-Detection)
 
-- **DenseSIRST**: Background Semantics Matter: Cross-Task Feature Exchange Network for Clustered Infrared Small Target Detection With Sky-Annotated Dataset.
+- **DenseSIRST**: Background Semantics Matter: Cross-Task Feature Exchange Network for Clustered Infrared Small Target Detection With Sky-Annotated Dataset
   - Y. Dai, X. Meng, Q. Dai, et al. **Preprint, 2024**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://arxiv.org/abs/2407.200782) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/GrokCV/DenseSIRST)
 
 
 ### [Datasets: Multi-Frame](#table-of-contents)
-- A dataset for infrared detection and tracking of dim-small aircraft targets under ground / air background.
+- A dataset for infrared detection and tracking of dim-small aircraft targets under ground / air background,
   - B. Hui, et al. **China Scientific Data, 2020**.
   - [![](https://img.shields.io/badge/Link-Dataset-green)](http://www.csdata.org/en/p/387/)
 
-- A dataset for infrared time-sensitive target detection and tracking for air-ground application.
+- A dataset for infrared time-sensitive target detection and tracking for air-ground application,
   - R. Fu, et al. **China Scientific Data, 2021**.
   - [![](https://img.shields.io/badge/Link-Dataset-green)](http://csdata.org/en/p/673/)
 
-- **SAITD**: A dataset for small infrared moving target detection under clutter background.
+- **SAITD**: A dataset for small infrared moving target detection under clutter background,
   - X. Sun, et al. **China Scientific Data, 2021**.
   - [![](https://img.shields.io/badge/Link-Dataset-green)](http://csdata.org/en/p/553/)
 
-- **IRSTD**: Receptive-field and Direction Induced Attention Network for Infrared Dim Small Target Detection with a Large-scale Dataset IRDST.
+- **IRDST**: Receptive-field and Direction Induced Attention Network for Infrared Dim Small Target Detection with a Large-scale Dataset IRDST.
   - H. Sun, J. Bai, F. Yang, et al. **TGRS, 2023**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://arxiv.org/abs/2407.200782) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/sun11999/RDIAN)
 
-
-- **NUDT-MIRSDT**:Direction-Coded Temporal U-Shape Module for Multiframe Infrared Small Target Detection.
-  - R. Li et al. **TNNLS, 2023**.
+- **NUDT-MIRSDT**: Direction-Coded Temporal U-Shape Module for Multiframe Infrared Small Target Detection.
+  - R. Li et al. **TNNLS, 2023**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10321723) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/TinaLRJ/Multi-frame-infrared-small-target-detection-DTUM)
 
 
-
 - **SIRSTD**: Spatial-Temporal Transformer for Infrared Small Target Detection in Sequential Images.
-  - X. Tong et al. **TGRS, 2024**.
+  - X. Tong et al. **TGRS, 2024**
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10409231)[![](https://img.shields.io/badge/Link-Dataset-green)](https://github.com/aurora-sea/SIRSTD)
 
 
@@ -454,20 +462,15 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
   - Y. Huang, X. Zhi, J. Hu, et al. **TGRS, 2024**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10758760) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/lifier/LMAFormer)
   
-- **IRSatVideo-LEO Dataset**: Infrared Small Target Detection in Satellite Videos: A New Dataset and A Novel Recurrent Feature Refinement Framework,
+- **IRSatVideo-LEO**: Infrared Small Target Detection in Satellite Videos: A New Dataset and A Novel Recurrent Feature Refinement Framework,
   - X. Ying, et al. **Preprint, 2024**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://arxiv.org/abs/2409.12448) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/XinyiYing/RFR)
 
 
-## [Recommended Benchmarks](#table-of-contents)
-| Title  |  Date  | Link |
-|:------|:------:|:------:|
-|ISTD Python|2021|https://github.com/Tianfang-Zhang/ISTD-python|
-|BasicIRSTD|2023|https://github.com/XinyiYing/BasicIRSTD|
-|ISTD-Benchmark|2023|https://github.com/Linaom1214/ISTD-Benchmark|
+
 
 # Acknowledgement
-This repository was founded by [Tianfang-Zhang](https://github.com/Tianfang-Zhang), and is currently updated by [fengyiwu98](https://github.com/fengyiwu98). If you have any issue, please contact us.
+This repository was founded by [Tianfang-Zhang](https://github.com/Tianfang-Zhang), and is currently updated by [fengyiwu98](https://github.com/fengyiwu98). If you have any issues, please contact us.
 
 
 -----
