@@ -391,7 +391,7 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
   - Wang H, Zhou L, Wang L. **ICCV, 2019**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Miss_Detection_vs._False_Alarm_Adversarial_Learning_for_Small_Object_ICCV_2019_paper.html) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/wanghuanphd/MDvsFA_cGAN)
 
-- **SIRST v1**, Asymmetric contextual modulation for infrared small target detection.
+- **SIRST**, Asymmetric contextual modulation for infrared small target detection.
   - Dai Y, Wu Y, Zhou F, et al. **WACV, 2021**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://openaccess.thecvf.com/content/WACV2021/html/Dai_Asymmetric_Contextual_Modulation_for_Infrared_Small_Target_Detection_WACV_2021_paper.html) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/YimianDai/sirst)
 
