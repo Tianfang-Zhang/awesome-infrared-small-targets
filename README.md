@@ -26,6 +26,7 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
     - [Datasets: Single-Frame](#datasets-single-frame)
     - [Datasets: Multi-Frame](#datasets-multi-frame)
   - [Recommended Benchmarks](#recommended-benchmarks)
+  - [Recommended Surveys](#recommended-surveys)
 - [Acknowledgement](#acknowledgement)
 
 
@@ -333,11 +334,18 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
   - S. Yuan, et al. **TGRS, 2024**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10486932) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/xdFai/SCTransNet)
 
+- **MiM-ISTD**: Mamba-in-Mamba for Efficient Infrared Small-Target Detection.
+  - T. Chen, et al. **TGRS, 2024**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10740056) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/txchen-USTC/MiM-ISTD)
+
 
 - **IRSAM**: Advancing segment anything model for infrared small target detection.
   - M. Zhang, et al. **ECCV, 2024**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://arxiv.org/pdf/2407.07520) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/IPIC-Lab/IRSAM)
 
+- **SeRankDet**: Pick of the Bunch: Detecting Infrared Small Targets Beyond Hit-Miss Trade-Offs via Selective Rank-Aware Attention.
+  - Y. Dai, et al. **TGRS, 2024**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/10677425) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/GrokCV/SeRankDet)
 
 
 ### [Multi-Frame](#table-of-contents)
@@ -464,6 +472,16 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
 |ISTD Python|2021|https://github.com/Tianfang-Zhang/ISTD-python|
 |BasicIRSTD|2023|https://github.com/XinyiYing/BasicIRSTD|
 |ISTD-Benchmark|2023|https://github.com/Linaom1214/ISTD-Benchmark|
+|STD-EvalKit|2024|https://github.com/IRSTD/STD-EvalKit|
+
+## [Recommended Surveys](#table-of-contents)
+- Single-Frame Infrared Small-Target Detection: A survey.
+  - M. Zhao, et al. **GRSM, 2022**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/9714770)
+- Infrared small target segmentation networks: A survey.
+  - R. Kou, et al. **PR, 2023**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.sciencedirect.com/science/article/pii/S0031320323004867)[![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/kourenke/Review-Infrared-small-target-segmentation-networks)
+
 
 # Acknowledgement
 This repository was founded by [Tianfang-Zhang](https://github.com/Tianfang-Zhang), and is currently updated by [fengyiwu98](https://github.com/fengyiwu98). If you have any issue, please contact us.
