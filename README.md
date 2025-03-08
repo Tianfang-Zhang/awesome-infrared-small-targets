@@ -346,6 +346,15 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
 - **SeRankDet**: Pick of the Bunch: Detecting Infrared Small Targets Beyond Hit-Miss Trade-Offs via Selective Rank-Aware Attention.
   - Y. Dai, et al. **TGRS, 2024**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/10677425) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/GrokCV/SeRankDet)
+ 
+- **L2SKNet**: Saliency at the Helm: Steering Infrared Small Target Detection with Learnable Kernels.
+  - F. Wu, et al. **TGRS, 2025**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10813615) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/fengyiwu98/L2SKNet)
+
+- Pinwheel-shaped Convolution and Scale-based Dynamic Loss for Infrared Small Target Detection.
+  - J. Yang, et al. **AAAI, 2025**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://arxiv.org/abs/2412.16986) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/JN-Yang/PConv-SDloss-Data)
+  
 
 
 ### [Multi-Frame](#table-of-contents)
@@ -361,28 +370,35 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
 
 - **DTUM**: Direction-Coded Temporal U-Shape Module for Multiframe Infrared Small Target Detection.
   - R. Li et al. **TNNLS, 2023**.
-  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10321723) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/TinaLRJ/Multi-frame-infrared-small-target-detection-DTUM)
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10321723) [![](https://img.shields.io/badge/Code-PyTorch-orang)](https://github.com/TinaLRJ/Multi-frame-infrared-small-target-detection-DTUM)
 
 
 - **SSTNet**: Sliced Spatio-Temporal Network With Cross-Slice ConvLSTM for Moving Infrared Dim-Small Target Detection.
   - S. Chen, L. Ji, J. Zhu, M. Ye, and X. Yao.  **TGRS, 2024**.
-  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10381806) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/UESTC-nnLab/SSTNet)
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10381806) [![](https://img.shields.io/badge/Code-PyTorch-orang)](https://github.com/UESTC-nnLab/SSTNet)
 
 
 - **DMIST**: Toward Dense Moving Infrared Small Target Detection: New Datasets and Baseline.
   - S. Chen, et al.  **TGRS, 2024**.
-  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10636251) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/UESTC-nnLab/DMIST)
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10636251) [![](https://img.shields.io/badge/Code-PyTorch-orang)](https://github.com/UESTC-nnLab/DMIST)
 
 
 - **Tridos**: Triple-domain Feature Learning with Frequency-aware Memory Enhancement for Moving Infrared Small Target Detection.
   - W. Duan, et al.  **TGRS, 2024**.
-  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10636251) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/UESTC-nnLab/Tridos)
-
-
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10636251) [![](https://img.shields.io/badge/Code-PyTorch-orang)](https://github.com/UESTC-nnLab/Tridos)
 
 - **LMAFormer**: Local Motion Aware Transformer for Small Moving Infrared Target Detection.
   - Y. Huang, X. Zhi, J. Hu, et al. **TGRS, 2024**.
-  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10758760) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/lifier/LMAFormer)
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10758760) [![](https://img.shields.io/badge/Code-PyTorch-orang)](https://github.com/lifier/LMAFormer)
+ 
+- **MoPKL**: Motion Prior Knowledge Learning with Homogeneous Language Descriptions for Moving Infrared Small Target Detection.
+  - Y. Huang, X. Zhi, J. Hu, et al. **AAAI, 2025**.
+  - [![](https://img.shields.io/badge/Code-PyTorch-orang)](https://github.com/UESTC-nnLab/MoPKL)
+
+- **S2MVP**: Semi-supervised Multi-view Prototype Learning with Motion Reconstruction for Moving Infrared Small Target Detection.
+  - W. Duan, et al. **TGRS, 2025**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10824834) [![](https://img.shields.io/badge/Code-PyTorch-orang)](https://github.com/UESTC-nnLab/S2MVP)
+
 
 
 ## [Deep Unfolding-Based Methods](#table-of-contents)
@@ -445,7 +461,7 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
 
 - **IRDST**: Receptive-field and Direction Induced Attention Network for Infrared Dim Small Target Detection with a Large-scale Dataset IRDST.
   - H. Sun, J. Bai, F. Yang, et al. **TGRS, 2023**.
-  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://arxiv.org/abs/2407.200782) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/sun11999/RDIAN)
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10011452) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/sun11999/RDIAN)
 
 - **NUDT-MIRSDT**: Direction-Coded Temporal U-Shape Module for Multiframe Infrared Small Target Detection.
   - R. Li et al. **TNNLS, 2023**
@@ -481,6 +497,9 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
 - Infrared small target segmentation networks: A survey.
   - R. Kou, et al. **PR, 2023**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.sciencedirect.com/science/article/pii/S0031320323004867)[![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/kourenke/Review-Infrared-small-target-segmentation-networks)
+- Deep learning based infrared small object segmentation: Challenges and future directions.
+  - Z. Yang, et al. **Infomation Fusion, 2025**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000806)
 
 
 # Acknowledgement
