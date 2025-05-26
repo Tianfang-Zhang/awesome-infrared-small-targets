@@ -391,15 +391,25 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
   - Y. Huang, X. Zhi, J. Hu, et al. **TGRS, 2024**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10758760) [![](https://img.shields.io/badge/Code-PyTorch-orang)](https://github.com/lifier/LMAFormer)
  
-- **MoPKL**: Motion Prior Knowledge Learning with Homogeneous Language Descriptions for Moving Infrared Small Target Detection.
-  - Y. Huang, X. Zhi, J. Hu, et al. **AAAI, 2025**.
-  - [![](https://img.shields.io/badge/Code-PyTorch-orang)](https://github.com/UESTC-nnLab/MoPKL)
+- One Shot is Enough for Sequential Infrared Small Target Segmentation
+  - B. Dan, et al. **ICASSP, 2025**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/10888009) [![](https://img.shields.io/badge/Code-PyTorch-orang)](https://github.com/D-IceIce/one-shot-IRSTS)
+ 
 
 - **S2MVP**: Semi-supervised Multi-view Prototype Learning with Motion Reconstruction for Moving Infrared Small Target Detection.
   - W. Duan, et al. **TGRS, 2025**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10824834) [![](https://img.shields.io/badge/Code-PyTorch-orang)](https://github.com/UESTC-nnLab/S2MVP)
+ 
+- **MoPKL**: Motion Prior Knowledge Learning with Homogeneous Language Descriptions for Moving Infrared Small Target Detection.
+  - S. Chen, L. Ji, W. Duan, et al. **AAAI, 2025**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/32217)[![](https://img.shields.io/badge/Code-PyTorch-orang)](https://github.com/UESTC-nnLab/MoPKL)
 
+- **MOCID**: Motion Context and Displacement Information Learning for Moving Infrared Small Target Detection
+  - M. Zhang, et al. **AAAI, 2025**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/33087) [![](https://img.shields.io/badge/Code-PyTorch-orang)](https://github.com/TanzanOY/MOCID)
+ 
 
+  
 
 ## [Deep Unfolding-Based Methods](#table-of-contents)
 
