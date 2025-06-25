@@ -354,6 +354,10 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
 - Pinwheel-shaped Convolution and Scale-based Dynamic Loss for Infrared Small Target Detection.
   - J. Yang, et al. **AAAI, 2025**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://arxiv.org/abs/2412.16986) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/JN-Yang/PConv-SDloss-Data)
+ 
+- **SAIST**: Segment Any Infrared Small Target Model Guided by Contrastive Language-Image Pretraining.
+  - M. Zhang, et al. **CVPR, 2025**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_SAIST_Segment_Any_Infrared_Small_Target_Model_Guided_by_Contrastive_CVPR_2025_paper.pdf)
   
 
 
@@ -395,7 +399,6 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
   - B. Dan, et al. **ICASSP, 2025**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/10888009) [![](https://img.shields.io/badge/Code-PyTorch-orang)](https://github.com/D-IceIce/one-shot-IRSTS)
  
-
 - **S2MVP**: Semi-supervised Multi-view Prototype Learning with Motion Reconstruction for Moving Infrared Small Target Detection.
   - W. Duan, et al. **TGRS, 2025**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10824834) [![](https://img.shields.io/badge/Code-PyTorch-orang)](https://github.com/UESTC-nnLab/S2MVP)
@@ -407,8 +410,10 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
 - **MOCID**: Motion Context and Displacement Information Learning for Moving Infrared Small Target Detection
   - M. Zhang, et al. **AAAI, 2025**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/33087) [![](https://img.shields.io/badge/Code-PyTorch-orang)](https://github.com/TanzanOY/MOCID)
- 
 
+- **NeurSTT**: Neural spatial-temporal tensor representation for infrared small target detection
+  - F. Wu, et al. **PR, 2025**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0031320325005898) [![](https://img.shields.io/badge/Code-PyTorch-orang)](https://github.com/fengyiwu98/NeurSTT)
   
 
 ## [Deep Unfolding-Based Methods](#table-of-contents)
@@ -454,6 +459,11 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
 - **DenseSIRST**: Background Semantics Matter: Cross-Task Feature Exchange Network for Clustered Infrared Small Target Detection With Sky-Annotated Dataset
   - Y. Dai, X. Meng, Q. Dai, et al. **Preprint, 2024**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://arxiv.org/abs/2407.200782) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/GrokCV/DenseSIRST)
+ 
+- **WideIRSTD-Full**: AuxDet: Auxiliary Metadata Matters for Omni-Domain Infrared Small Target Detection
+  - Y Shi, et al. **Preprint, 2025**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://arxiv.org/pdf/2505.15184) [![](https://img.shields.io/badge/Code-Python-orange)](https://arxiv.org/pdf/2505.15184)
+
 
 
 ### [Datasets: Multi-Frame](#table-of-contents)
@@ -486,10 +496,17 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
 - **TSIRMT**: LMAFormer: Local Motion Aware Transformer for Small Moving Infrared Target Detection,
   - Y. Huang, X. Zhi, J. Hu, et al. **TGRS, 2024**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10758760) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/lifier/LMAFormer)
+
   
 - **IRSatVideo-LEO**: Infrared Small Target Detection in Satellite Videos: A New Dataset and A Novel Recurrent Feature Refinement Framework,
-  - X. Ying, et al. **Preprint, 2024**.
+  - X. Ying, et al. **TGRS, 2025**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://arxiv.org/abs/2409.12448) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/XinyiYing/RFR)
+
+
+- **NUDT-MIRSDT-Noise**: Probing Deep into Temporal Profile Makes the Infrared Small Target Detector Much Better,
+  - X. Ying, et al. **Preprint, 2025**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://arxiv.org/pdf/2506.12766) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/TinaLRJ/DeepPro)
+
 
 
 ## [Recommended Benchmarks](#table-of-contents)
