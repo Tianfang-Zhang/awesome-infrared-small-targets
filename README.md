@@ -504,7 +504,7 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
 
 
 - **NUDT-MIRSDT-Noise**: Probing Deep into Temporal Profile Makes the Infrared Small Target Detector Much Better,
-  - X. Ying, et al. **Preprint, 2025**.
+  - R. Li, et al. **Preprint, 2025**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://arxiv.org/pdf/2506.12766) [![](https://img.shields.io/badge/Code-Python-orange)](https://github.com/TinaLRJ/DeepPro)
 
 
