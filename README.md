@@ -516,6 +516,7 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
 |BasicIRSTD|2023|https://github.com/XinyiYing/BasicIRSTD|
 |ISTD-Benchmark|2023|https://github.com/Linaom1214/ISTD-Benchmark|
 |STD-EvalKit|2024|https://github.com/IRSTD/STD-EvalKit|
+|PyIRSTDMetrics|2025|https://github.com/lartpang/PyIRSTDMetrics|
 
 ## [Recommended Surveys](#table-of-contents)
 - Single-Frame Infrared Small-Target Detection: A survey.
