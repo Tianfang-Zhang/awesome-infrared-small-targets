@@ -366,14 +366,20 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
 - **SAIST**: Segment Any Infrared Small Target Model Guided by Contrastive Language-Image Pretraining.
   - M. Zhang, et al. **CVPR, 2025**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_SAIST_Segment_Any_Infrared_Small_Target_Model_Guided_by_Contrastive_CVPR_2025_paper.pdf)
+    
+- From Easy to Hard: Progressive Active Learning Framework for Infrared Small Target Detection with Single Point Supervision.
+  - C. Yu, et al. **ICCV, 2025**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://arxiv.org/abs/2412.11154)[![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/YuChuang1205/PAL)
+
+- **MTMLNet**: Multi-Task Mutual Learning Network for Infrared Small Target Detection and Segmentation
+  - B. Yang, et al.  **TIP, 2025**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/11080263) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/YangBo0411/MTMLNet)
  
 - **BGM**: Forgetting the Background: A Masking Approach for Enhanced Infrared Small-Target Detection
   - Y. Liu, et al. **TGRS, 2025**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/11082367) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/ZhihaoMa123/BGM)
 
-- **MTMLNet**: Multi-Task Mutual Learning Network for Infrared Small Target Detection and Segmentation
-  - B. Yang, et al.  **TIP, 2025**.
-  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/11080263) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/YangBo0411/MTMLNet)
+
 
 
 ### [Multi-Frame](#table-of-contents)
