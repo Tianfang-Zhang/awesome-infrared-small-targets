@@ -381,11 +381,11 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
 
 - A Unified SAM-Guided Self-Prompt Learning Framework for Infrared Small Target Detection
   - Y. Fu, et al. **TGRS, 2025**.
-  - [![](https://ieeexplore.ieee.org/abstract/document/11172325)] [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/fuyimin96/SAM-SPL)
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/11172325) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/fuyimin96/SAM-SPL)
 
 - HDNet: A Hybrid Domain Network With Multiscale High-Frequency Information Enhancement for Infrared Small-Target Detection
   - M. Xu, et al. **TGRS, 2025**.
-  - [![](https://ieeexplore.ieee.org/document/11017756)] [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/xumingzhu989/HDNet-TGRS)
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/11017756) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/xumingzhu989/HDNet-TGRS)
 
 ### [Multi-Frame](#table-of-contents)
 
