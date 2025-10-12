@@ -379,8 +379,14 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
   - Y. Liu, et al. **TGRS, 2025**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/11082367) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/ZhihaoMa123/BGM)
 
+- A Unified SAM-Guided Self-Prompt Learning Framework for Infrared Small Target Detection
+  - Y. Fu, et al. **TGRS, 2025**.
+  - [![](https://ieeexplore.ieee.org/abstract/document/11172325) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/fuyimin96/SAM-SPL)
 
 
+- HDNet: A Hybrid Domain Network With Multiscale High-Frequency Information Enhancement for Infrared Small-Target Detection
+  - M. Xu, et al. **TGRS, 2025**.
+  - [![](https://ieeexplore.ieee.org/document/11017756) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/xumingzhu989/HDNet-TGRS)
 
 ### [Multi-Frame](#table-of-contents)
 
@@ -439,6 +445,10 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
 - **SeqCSIST**: Sequential Closely-Spaced Infrared Small Target Unmixing
   - X. Zhai, et al. **TGRS, 2025**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/11080063) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/GrokCV/SeqCSIST)
+
+- **OSFormer**:  One-Step Transformer for Infrared Video Small Object Detection
+  - H. Qin, et al. **TIP, 2025**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/11130659) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/q2479036243/OSFormer)
   
 
 ## [Deep Unfolding-Based Methods](#table-of-contents)
@@ -551,6 +561,7 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
 |ISTD-Benchmark|2023|https://github.com/Linaom1214/ISTD-Benchmark|
 |STD-EvalKit|2024|https://github.com/IRSTD/STD-EvalKit|
 |TensorISTD|2025|https://github.com/fengyiwu98/TensorISTD|
+|PyIRSTDMetrics|2025|https://github.com/lartpang/PyIRSTDMetrics|
 
 ## [Recommended Surveys](#table-of-contents)
 - Single-Frame Infrared Small-Target Detection: A survey.
