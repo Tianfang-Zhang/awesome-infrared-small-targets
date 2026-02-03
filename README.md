@@ -18,6 +18,7 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
     - [Matrix: Multi-Subspace](#matrix-multi-subspace)
     - [Tensor: Single-Frame](#tensor-single-frame)
     - [Tensor: Multi-Frame](#tensor-multi-frame)
+    - [Tensor: Deep Unsupervised](#tensor-deep-unsupervised)
   - [Deep Learning-Based Methods](#deep-learning-based-methods)
     - [Single-Frame](#single-frame)
     - [Multi-Frame](#multi-frame)
@@ -234,13 +235,6 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
   - F. Wu, H. Yu, A. Liu, J. Luo and Z. Peng. **TGRS, 2023**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10156866) [![](https://img.shields.io/badge/Code-Matlab-orange)](https://github.com/fengyiwu98/4D_ISTD)
 
-- **WSWTNN-PnP**, Combining Deep Denoiser and Low-rank Priors for Infrared Small Target Detection.
-  - T. Liu, Q. Yin, J. Yang, Y. Wang and W. An. **PR, 2023**.
-  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.sciencedirect.com/science/article/pii/S003132032200663X) [![](https://img.shields.io/badge/Code-Matlab-orange)](https://github.com/LiuTing20a/WSWTNN-PnP)
-
-- **3DSTPM**, Infrared Small Target Detection Combining Deep Spatial–Temporal Prior With Traditional Priors.
-  - Z. Zhang, P. Gao, S. Ji, X. Wang, and P. Zhang. **TGRS, 2023**.
-  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10275009)
 
 - **SDD**, Sparse Prior Is Not All You Need: When Differential Directionality Meets Saliency Coherence for Infrared Small Target Detection.
   - F. Zhou, et al, **TIM, 2024**.
@@ -253,7 +247,29 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
 - 5-D spatial–temporal information-based infrared small target detection in complex environments.
   - Y. Luo, et al, **PR, 2025**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.sciencedirect.com/science/article/pii/S003132032200663X)
-    
+
+- **STPA-FCTN**, A Comprehensive Benchmark for Spatiotemporal Tensor-Based Infrared Small Target Detection.
+  - F. Wu, et al, **TGRS, 2026**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/11333368)[![](https://img.shields.io/badge/Code-Matlab-orange)](https://github.com/fengyiwu98/TensorISTD/tree/main/algorithms/STPA_FCTN)
+
+### [Tensor: Deep Unsupervised](#table-of-contents)
+
+- **WSWTNN-PnP**, Combining Deep Denoiser and Low-rank Priors for Infrared Small Target Detection.
+  - T. Liu, Q. Yin, J. Yang, Y. Wang and W. An. **PR, 2023**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.sciencedirect.com/science/article/pii/S003132032200663X) [![](https://img.shields.io/badge/Code-Matlab-orange)](https://github.com/LiuTing20a/WSWTNN-PnP)
+
+- **3DSTPM**, Infrared Small Target Detection Combining Deep Spatial–Temporal Prior With Traditional Priors.
+  - Z. Zhang, P. Gao, S. Ji, X. Wang, and P. Zhang. **TGRS, 2023**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10275009)
+
+- **NeurSTT**: Neural spatial-temporal tensor representation for infrared small target detection
+  - F. Wu, et al. **PR, 2026**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0031320325005898) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/fengyiwu98/NeurSTT)
+
+- DNN-aided low-rank and sparse decomposition model for infrared small target detection
+  - J-J. Yin, et al. **PR, 2026**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.sciencedirect.com/science/article/pii/S0031320326000336) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/Yiniaie/DNN-aided-LRSD)
+
 
 ## [Deep Learning-Based Methods](#table-of-contents)
 
@@ -374,6 +390,10 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
 - **MTMLNet**: Multi-Task Mutual Learning Network for Infrared Small Target Detection and Segmentation
   - B. Yang, et al.  **TIP, 2025**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/11080263) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/YangBo0411/MTMLNet)
+
+- **ILNet**: Low-Level Matters for Salient Infrared Small Target Detection
+  - H. Li, et al. **TAES, 2025**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/10899837) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/Li-Haoqing/ILNet)
  
 - **BGM**: Forgetting the Background: A Masking Approach for Enhanced Infrared Small-Target Detection
   - Y. Liu, et al. **TGRS, 2025**.
@@ -383,9 +403,15 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
   - Y. Fu, et al. **TGRS, 2025**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/11172325) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/fuyimin96/SAM-SPL)
 
+
 - HDNet: A Hybrid Domain Network With Multiscale High-Frequency Information Enhancement for Infrared Small-Target Detection
   - M. Xu, et al. **TGRS, 2025**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/11017756) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/xumingzhu989/HDNet-TGRS)
+
+- PGNet: Position Guided Infrared Small Target Detection
+  - B. Li, et al. **KBS, 2025**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.sciencedirect.com/science/article/pii/S0950705125017083) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/liboeryuan/PGNet)
+
 
 ### [Multi-Frame](#table-of-contents)
 
@@ -415,7 +441,7 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
 
 - **Tridos**: Triple-domain Feature Learning with Frequency-aware Memory Enhancement for Moving Infrared Small Target Detection.
   - W. Duan, et al.  **TGRS, 2024**.
-  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/10636251) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/UESTC-nnLab/Tridos)
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/10663463) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/UESTC-nnLab/Tridos)
 
 - **LMAFormer**: Local Motion Aware Transformer for Small Moving Infrared Target Detection.
   - Y. Huang, X. Zhi, J. Hu, et al. **TGRS, 2024**.
@@ -448,6 +474,24 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
 - **OSFormer**:  One-Step Transformer for Infrared Video Small Object Detection
   - H. Qin, et al. **TIP, 2025**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/11130659) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/q2479036243/OSFormer)
+
+-  Low-Level Matters: An Efficient Hybrid Architecture for Robust Multiframe Infrared Small Target Detection
+    - Z. Shen, et al. **JSTARS, 2025**.
+     - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11153639) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/ZhihuaShen/LVNet)
+
+
+- **MFE-Net**:  A New Motion Feature-Enhanced Multiframe Spatial–Temporal Infrared Target Detection Network
+  - F. Li, et al. **TGRS, 2025**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11145128) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/lifenghong/MFE-Net)
+
+
+- **DQAligner**:  Learning Global Dynamic Query for Large–Motion Infrared Small Target Detection
+  - C. Deng, et al. **TGRS, 2026**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/11363482) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/dengfa02/DQAligner_MIRSTD)
+
+
+
+
   
 
 ## [Deep Unfolding-Based Methods](#table-of-contents)
@@ -463,6 +507,9 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
 - **DISTA-Net**: Dynamic Closely-Spaced Infrared Small Target Unmixing
   - S. Han, et al. **ICCV, 2025**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)]([https://ieeexplore.ieee.org/abstract/document/11079687](https://arxiv.org/pdf/2505.19148)) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/GrokCV/GrokCSO)
+- **CTVNet**: Gradient Prior-Guided Deep Unfolding Network for Infrared Small Target Detection
+  - P. Liu, et al. **TGRS, 2025**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/abstract/document/11265800) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/AuroraPei/CTVNet)
 
 
 
