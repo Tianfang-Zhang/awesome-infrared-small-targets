@@ -535,6 +535,10 @@ Keywords: Infrared small targets detection, infrared small targets segmentation.
   - M. Zhang, et al. **CVPR, 2025**.
   - [![](https://img.shields.io/badge/Link-Paper-blue)](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_SAIST_Segment_Any_Infrared_Small_Target_Model_Guided_by_Contrastive_CVPR_2025_paper.pdf)
   
+- **SeViL**: Semi-supervised Vision-Language Learning with Text Prompt Guiding for Moving Infrared Small Target Detection
+  - W. Duan, et al. **AAAI, 2026**.
+  - [![](https://img.shields.io/badge/Link-Paper-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/37372)[![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/UESTC-nnLab/SeViL)
+
 
 ## [Deep Unfolding-Based Methods](#table-of-contents)
 
